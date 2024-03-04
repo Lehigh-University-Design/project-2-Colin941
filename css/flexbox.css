@@ -1,0 +1,27 @@
+
+
+
+
+.deck { 
+
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row; 
+    justify-content: center;
+    justify-content: space-around;
+
+}
+
+
+.card { 
+
+height: 200px;
+width: 60px;
+padding:50px;
+margin: 20px;
+justify-content: center;
+justify-content: space-around;
+background-color: 6383A1;
+
+
+}
