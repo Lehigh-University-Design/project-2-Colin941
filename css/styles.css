@@ -89,3 +89,17 @@ font-size: 50px;
 }
 
     
+
+.step {
+    position: relative;
+    margin-bottom: 3em;
+    .instructions {
+        position: absolute;
+        z-index: 100;
+        top: 1em;
+        left: 1em;
+        p{
+            background-color: transparent;
+        }
+    }
+}
